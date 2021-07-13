@@ -9,7 +9,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/go-pg/pg/v9/orm"
+	"github.com/go-pg/pg/v10/orm"
 )
 
 type goPgDB struct {

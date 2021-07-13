@@ -1,7 +1,7 @@
 package gopg_mock
 
 import (
-	"github.com/go-pg/pg/v9/orm"
+	"github.com/go-pg/pg/v10/orm"
 )
 
 // Formatter implements orm.Formatter
